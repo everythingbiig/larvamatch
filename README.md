@@ -33,6 +33,7 @@ A simple script will run periodically to traverse all the larvas by token id to 
 }
 ```
 
+The script currently outputs something like:
 ```bash
 ❯ python do_larva_match.py 
 Finding punks that are similar to LarvaLad1966.jpg
